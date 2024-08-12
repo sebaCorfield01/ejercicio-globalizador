@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.imagen{
+    height: 400px;
+    width: 400px;
+}
+
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.div-conteiner{
+    width: 20%;
+    background-color: blue;
+    padding: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius:30px ;
+    
+    
+}
+
+button{
+    width: 20%;
+    margin-top: 20px;
+}
+
